@@ -19,6 +19,14 @@
     "typescript": "^5.8.3"
   },
   "dependencies": {
-    "jwt-decode": "^4.0.0"
+    "@types/multer": "^2.0.0",
+    "ajv": "^8.17.1",
+    "ajv-errors": "^3.0.0",
+    "express-validator": "^7.2.1",
+    "jwt-decode": "^4.0.0",
+    "marked": "^16.1.1",
+    "multer": "^2.0.2",
+    "react-hook-form": "^7.61.1",
+    "uuid": "^11.1.0"
   }
 }
